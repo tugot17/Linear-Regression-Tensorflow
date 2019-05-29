@@ -2,6 +2,8 @@
 Linear and Polynomial Regression problems solved using Tensorflow Machine Learning framework 
 
 <img src="data_files/title_plot.jpg" alt="drawing" width="500px"/>
+<img src="data_files/Screenshot from 2019-05-29 15-32-23.png" alt="drawing" width="500px"/>
+
 
 
 ## Getting Started
