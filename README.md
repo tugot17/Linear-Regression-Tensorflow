@@ -18,7 +18,6 @@ The main file is LinearRegressionTensorflow.ipynb
 -matplotlb
 ```
 
-
 ## Authors
 
 * [tugot17](https://github.com/tugot17)
